@@ -5,9 +5,9 @@
 ## 🚀 Sobre Mim
 
 - 💼 Desenvolvedor de um sistema de IA que processa **50.000+ mensagens/mês** via WhatsApp
-- 📈 Foco em arquiteturas escaláveis e **Event-Driven**
+- 🛠️ Foco em: **n8n**, **Docker**, **PostgreSQL** e **AI Agents**
 - 🎓 Cursando **Ciência da Computação** na **FIAP** (2026)
-- 💡 Criador do ecossistema **GCR Tech**
+- 🛠️ Mantenedor de projetos open-source
 - 📍 São Paulo, SP
 
 ---
